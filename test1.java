@@ -6,6 +6,11 @@ public class test1
       {
        System.out.println("hello iacsd");
        System.out.println("welcome to git");
+
+       System.out.println("hello iacsd");
+       System.out.println("welcome to git");
+       System.out.println("hello iacsd");
+       System.out.println("welcome to git");
        }
 
 
